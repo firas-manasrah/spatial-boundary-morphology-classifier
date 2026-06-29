@@ -53,3 +53,13 @@ Early-stage research tool. Developed during research internship at
 BIH/Charite Berlin, Eils-Ishaque Computational Oncology Group, 2026.
 
 Author: Firas Manasrah — github.com/firas-manasrah
+
+## Group Summary
+
+| Group | Shape | Key metric |
+|-------|-------|------------|
+| Compact | Round, convex, regular | Low PAR, high convexity |
+| Irregular | Complex, non-convex | High fractal dimension |
+| Elongated | Long and narrow | High elongation ratio |
+| Complex | Irregular and elongated | High fractal + high elongation |
+| Large | Much bigger than average | Area > 5x tissue median |
